@@ -161,13 +161,13 @@ sha256sum FILE_NAME
 
 ### therealaleph--MasterHttpRelayVPN-RUST
 
-🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.14</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.14)
+🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.15</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.15)
 
 | File | Size | Download |
 |------|------|----------|
-| `mhrv-rs-android-arm64-v8a-v1.9.14.apk` | 18.1 MB | [⬇️ Download](https://raw.githubusercontent.com/InFPx/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.14.apk) |
-| `mhrv-rs-android-armeabi-v7a-v1.9.14.apk` | 15.8 MB | [⬇️ Download](https://raw.githubusercontent.com/InFPx/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-armeabi-v7a-v1.9.14.apk) |
-| `mhrv-rs-android-universal-v1.9.14.apk` | 39.1 MB | [⬇️ Download](https://raw.githubusercontent.com/InFPx/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.14.apk) |
-| `mhrv-rs-android-x86-v1.9.14.apk` | 18.8 MB | [⬇️ Download](https://raw.githubusercontent.com/InFPx/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86-v1.9.14.apk) |
-| `mhrv-rs-android-x86_64-v1.9.14.apk` | 19.0 MB | [⬇️ Download](https://raw.githubusercontent.com/InFPx/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86_64-v1.9.14.apk) |
+| `mhrv-rs-android-arm64-v8a-v1.9.15.apk` | 18.6 MB | [⬇️ Download](https://raw.githubusercontent.com/InFPx/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.15.apk) |
+| `mhrv-rs-android-armeabi-v7a-v1.9.15.apk` | 16.1 MB | [⬇️ Download](https://raw.githubusercontent.com/InFPx/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-armeabi-v7a-v1.9.15.apk) |
+| `mhrv-rs-android-universal-v1.9.15.apk` | 41.1 MB | [⬇️ Download](https://raw.githubusercontent.com/InFPx/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.15.apk) |
+| `mhrv-rs-android-x86-v1.9.15.apk` | 19.3 MB | [⬇️ Download](https://raw.githubusercontent.com/InFPx/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86-v1.9.15.apk) |
+| `mhrv-rs-android-x86_64-v1.9.15.apk` | 19.5 MB | [⬇️ Download](https://raw.githubusercontent.com/InFPx/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86_64-v1.9.15.apk) |
 <!-- RELEASES_END -->
