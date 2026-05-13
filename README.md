@@ -157,6 +157,21 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="samboycoding--cpp2il"></div>
+
+### SamboyCoding--Cpp2IL
+
+🔗 [source](https://github.com/SamboyCoding/Cpp2IL) – [<code><small>2022.0.7</small></code>](https://github.com/SamboyCoding/Cpp2IL/releases/tag/2022.0.7)
+
+| File | Size | Download |
+|------|------|----------|
+| `Cpp2IL-2022.0.7-Linux` | 24.4 MB | [⬇️ Download](https://raw.githubusercontent.com/InFPx/LatestReleaseMirror/main/releases/SamboyCoding/Cpp2IL/Cpp2IL-2022.0.7-Linux) |
+| `Cpp2IL-2022.0.7-OSX` | 24.4 MB | [⬇️ Download](https://raw.githubusercontent.com/InFPx/LatestReleaseMirror/main/releases/SamboyCoding/Cpp2IL/Cpp2IL-2022.0.7-OSX) |
+| `Cpp2IL-2022.0.7-Windows-Netframework472.zip` | 2.1 MB | [⬇️ Download](https://raw.githubusercontent.com/InFPx/LatestReleaseMirror/main/releases/SamboyCoding/Cpp2IL/Cpp2IL-2022.0.7-Windows-Netframework472.zip) |
+| `Cpp2IL-2022.0.7-Windows.exe` | 21.8 MB | [⬇️ Download](https://raw.githubusercontent.com/InFPx/LatestReleaseMirror/main/releases/SamboyCoding/Cpp2IL/Cpp2IL-2022.0.7-Windows.exe) |
+
+---
+
 <div id="therealaleph--masterhttprelayvpn-rust"></div>
 
 ### therealaleph--MasterHttpRelayVPN-RUST
