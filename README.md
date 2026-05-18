@@ -157,6 +157,23 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="hidden-node--masterdnsvpn-androidclient"></div>
+
+### Hidden-Node--MasterDnsVPN-AndroidClient
+
+🔗 [source](https://github.com/Hidden-Node/MasterDnsVPN-AndroidClient) – [<code><small>v1.2.3</small></code>](https://github.com/Hidden-Node/MasterDnsVPN-AndroidClient/releases/tag/v1.2.3)
+
+| File | Size | Download |
+|------|------|----------|
+| `masterdnsvpn-HN-1.2.3-arm64-v8a-release.apk` | 10.5 MB | [⬇️ Download](https://raw.githubusercontent.com/InFPx/LatestReleaseMirror/main/releases/Hidden-Node/MasterDnsVPN-AndroidClient/masterdnsvpn-HN-1.2.3-arm64-v8a-release.apk) |
+| `masterdnsvpn-HN-1.2.3-armeabi-v7a-release.apk` | 10.7 MB | [⬇️ Download](https://raw.githubusercontent.com/InFPx/LatestReleaseMirror/main/releases/Hidden-Node/MasterDnsVPN-AndroidClient/masterdnsvpn-HN-1.2.3-armeabi-v7a-release.apk) |
+| `masterdnsvpn-HN-1.2.3-release.aar` | 35.4 MB | [⬇️ Download](https://raw.githubusercontent.com/InFPx/LatestReleaseMirror/main/releases/Hidden-Node/MasterDnsVPN-AndroidClient/masterdnsvpn-HN-1.2.3-release.aar) |
+| `masterdnsvpn-HN-1.2.3-universal-release.apk` | 37.1 MB | [⬇️ Download](https://raw.githubusercontent.com/InFPx/LatestReleaseMirror/main/releases/Hidden-Node/MasterDnsVPN-AndroidClient/masterdnsvpn-HN-1.2.3-universal-release.apk) |
+| `masterdnsvpn-HN-1.2.3-x86-release.apk` | 11.3 MB | [⬇️ Download](https://raw.githubusercontent.com/InFPx/LatestReleaseMirror/main/releases/Hidden-Node/MasterDnsVPN-AndroidClient/masterdnsvpn-HN-1.2.3-x86-release.apk) |
+| `masterdnsvpn-HN-1.2.3-x86_64-release.apk` | 11.1 MB | [⬇️ Download](https://raw.githubusercontent.com/InFPx/LatestReleaseMirror/main/releases/Hidden-Node/MasterDnsVPN-AndroidClient/masterdnsvpn-HN-1.2.3-x86_64-release.apk) |
+
+---
+
 <div id="samboycoding--cpp2il"></div>
 
 ### SamboyCoding--Cpp2IL
@@ -176,17 +193,17 @@ sha256sum FILE_NAME
 
 ### therealaleph--MasterHttpRelayVPN-RUST
 
-🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.25</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.25)
+🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.30</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.30)
 
 | File | Size | Download |
 |------|------|----------|
-| `mhrv-rs-android-arm64-v8a-v1.9.25.apk` | 18.6 MB | [⬇️ Download](https://raw.githubusercontent.com/InFPx/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.25.apk) |
-| `mhrv-rs-android-armeabi-v7a-v1.9.25.apk` | 16.1 MB | [⬇️ Download](https://raw.githubusercontent.com/InFPx/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-armeabi-v7a-v1.9.25.apk) |
-| `mhrv-rs-android-universal-v1.9.25.apk` | 41.2 MB | [⬇️ Download](https://raw.githubusercontent.com/InFPx/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.25.apk) |
-| `mhrv-rs-android-x86-v1.9.25.apk` | 19.3 MB | [⬇️ Download](https://raw.githubusercontent.com/InFPx/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86-v1.9.25.apk) |
-| `mhrv-rs-android-x86_64-v1.9.25.apk` | 19.6 MB | [⬇️ Download](https://raw.githubusercontent.com/InFPx/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86_64-v1.9.25.apk) |
-| `mhrv-rs-linux-amd64.tar.gz` | 9.6 MB | [⬇️ Download](https://raw.githubusercontent.com/InFPx/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-amd64.tar.gz) |
-| `mhrv-rs-linux-arm64.tar.gz` | 2.0 MB | [⬇️ Download](https://raw.githubusercontent.com/InFPx/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-arm64.tar.gz) |
+| `mhrv-rs-android-arm64-v8a-v1.9.30.apk` | 18.6 MB | [⬇️ Download](https://raw.githubusercontent.com/InFPx/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.30.apk) |
+| `mhrv-rs-android-armeabi-v7a-v1.9.30.apk` | 16.1 MB | [⬇️ Download](https://raw.githubusercontent.com/InFPx/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-armeabi-v7a-v1.9.30.apk) |
+| `mhrv-rs-android-universal-v1.9.30.apk` | 41.4 MB | [⬇️ Download](https://raw.githubusercontent.com/InFPx/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.30.apk) |
+| `mhrv-rs-android-x86-v1.9.30.apk` | 19.4 MB | [⬇️ Download](https://raw.githubusercontent.com/InFPx/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86-v1.9.30.apk) |
+| `mhrv-rs-android-x86_64-v1.9.30.apk` | 19.6 MB | [⬇️ Download](https://raw.githubusercontent.com/InFPx/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86_64-v1.9.30.apk) |
+| `mhrv-rs-linux-amd64.tar.gz` | 9.7 MB | [⬇️ Download](https://raw.githubusercontent.com/InFPx/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-amd64.tar.gz) |
+| `mhrv-rs-linux-arm64.tar.gz` | 2.1 MB | [⬇️ Download](https://raw.githubusercontent.com/InFPx/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-arm64.tar.gz) |
 | `mhrv-rs-linux-musl-amd64.tar.gz` | 2.3 MB | [⬇️ Download](https://raw.githubusercontent.com/InFPx/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-musl-amd64.tar.gz) |
 | `mhrv-rs-linux-musl-arm64.tar.gz` | 2.1 MB | [⬇️ Download](https://raw.githubusercontent.com/InFPx/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-musl-arm64.tar.gz) |
 | `mhrv-rs-macos-amd64-app.zip` | 5.0 MB | [⬇️ Download](https://raw.githubusercontent.com/InFPx/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-amd64-app.zip) |
